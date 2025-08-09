@@ -1,0 +1,32 @@
+body{
+  
+    background-color: lightblue;
+}
+.header{
+    height: 80px;
+
+
+}
+.header>h1{
+    color: brown;
+    font-size: 35px;
+    padding: 25px;
+   
+} 
+#card{
+    background-color: white;
+   
+    padding: 20px;
+}
+.name{
+    font-size: 24px;
+    color: black;
+    padding: 15px;
+}
+.squad{
+    color:blue;
+    font-size: 16px;
+}
+.bg{
+
+}
